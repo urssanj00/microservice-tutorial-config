@@ -3,7 +3,7 @@ spring:
     name: Config-Prod
 eureka:
   instance:
-    appname: CONFIG-SERVER-APP
+    appname: CONFIG-SERVER
     prefer-ip-address: true    
   client:
     fetch-registry: true
